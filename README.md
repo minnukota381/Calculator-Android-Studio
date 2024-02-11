@@ -11,8 +11,11 @@ This is a simple calculator Android application developed using Java and Android
 ## Usage
 
 1. Clone or download the repository.
-2. Open the project in Android Studio.
-3. Build and run the application on an Android device or emulator.
+   ```
+   git clone minnukota381/Calculator-Android-Studio
+   ```
+3. Open the project in Android Studio.
+4. Build and run the application on an Android device or emulator.
 
 ## Screenshots
 
