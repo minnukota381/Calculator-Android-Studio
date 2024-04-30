@@ -22,6 +22,3 @@ This is a simple calculator Android application developed using Java and Android
 <img src="/screenshots/screenshot1.png" alt="Screenshot 1" width="600" height="500">
 <img src="/screenshots/screenshot2.png" alt="Screenshot 2" width="300" height="600">
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
